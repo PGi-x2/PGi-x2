@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PGi-x2
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... java projects
-- 📫 How to reach me ... porgrasandrei@outlook.com
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning  Java.
+- 💞️ I’m looking to collaborate on Java projects.
+- 📫 How to reach me porgrasandrei@outlook.com
 
 <!---
 PGi-x2/PGi-x2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
