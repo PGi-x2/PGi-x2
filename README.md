@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PGi-x2
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning C# and Java.
-- 💞️ I’m looking to collaborate on C# and Java projects.
+- 👀 I’m interested in fullstack software development with C# on backend and Angular for frontend.
+- 🌱 I’m currently learning C#, Java, Angular.
+- 💞️ I’m looking to collaborate on C#, Java and Angular projects.
 - 📫 How to reach me porgrasandrei@outlook.com
 
 <!---
